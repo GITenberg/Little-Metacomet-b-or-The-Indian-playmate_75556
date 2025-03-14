@@ -1,0 +1,51 @@
+_repo: Little-Metacomet-b-or-The-Indian-playmate_75556
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+    wikipedia: https://en.wikipedia.org/wiki/Frank_T._Merrill
+creator:
+  author:
+    agent_name: Butterworth, Hezekiah
+    birthdate: 1839
+    deathdate: 1905
+    gutenberg_agent_id: '5730'
+    url: http://www.gutenberg.org/2009/agents/5730
+    wikipedia: https://en.wikipedia.org/wiki/Hezekiah_Butterworth
+description: ''
+gutenberg_issued: '2025-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75556'
+  lccn: 04021669
+language: en
+pgterms:marc905: 20240915120359butterwort
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: Mary Meehan and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bThomas Y. Crowell & Co., $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Nature stories'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Pets -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcsh 'Philip, Sachem of the Wampanoags, -1676 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Little Metacomet : $b or, The Indian playmate'
+url: http://www.gutenberg.org/ebooks/75556
