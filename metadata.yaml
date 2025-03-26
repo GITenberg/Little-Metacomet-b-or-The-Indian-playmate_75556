@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '6202'
     url: http://www.gutenberg.org/2009/agents/6202
     wikipedia: https://en.wikipedia.org/wiki/Frank_T._Merrill
+covers:
+- cover_type: archival
+  image_path: 75556-h/images/cover.jpg
 creator:
   author:
     agent_name: Butterworth, Hezekiah
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5730
     wikipedia: https://en.wikipedia.org/wiki/Hezekiah_Butterworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75556#Little-Metacomet-b-or-The-Indian-playmate
 gutenberg_issued: '2025-03-08'
 gutenberg_type: Text
 identifiers:
